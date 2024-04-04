@@ -1,2 +1,2 @@
 # This is the repo for ITSCM 180. 
-print("Go Brewers")
+# This is for Assignments 6 and 7.
