@@ -31,3 +31,6 @@ accuracy = accuracy_score(y_test, predictions)
 
 # Print the accuracy of the model
 print(f"Accuracy: {accuracy}")
+
+# Print "Go Brewers"
+print("Go Brewers")
