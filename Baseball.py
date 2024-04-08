@@ -33,4 +33,4 @@ accuracy = accuracy_score(y_test, predictions)
 print(f"Accuracy: {accuracy}")
 
 # Print "Go Brewers"
-print("Go Brew Crew")
+print("Go Brewers")
